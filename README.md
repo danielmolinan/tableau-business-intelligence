@@ -6,7 +6,7 @@ Dashboard interactivo de Business Intelligence desarrollado con Tableau Desktop 
 
 ---
 
-#📊 Vista del Dashboard
+# Vista del Dashboard
 
 ![Dashboard Easy Loans](./easy-loans-dashboard/dashboard-preview.png)
 
