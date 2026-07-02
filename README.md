@@ -84,6 +84,6 @@ tableau-business-intelligence/
 ## Autor
 
 **Daniel Molina Novoa** · Data Analyst  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-molina-novoa-78106925a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-molina-novoa/)
 [![GitHub](https://img.shields.io/badge/GitHub-danielmolinan-181717?style=flat&logo=github&logoColor=white)](https://github.com/danielmolinan)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-danielmolinan-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/daniel.molina.novoa)
